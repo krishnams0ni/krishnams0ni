@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishnam Soni</h1>
 
-<img src = "img.png" align="right" width=40%>
-
 - 📄 My Portfolio [**website**](https://krishnams0ni.github.io/) <br>
 
 <div align="center">
