@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <a href="https://krishnams0ni.github.com/">
+  <a href="https://krishnams0ni.github.io/">
     <img src="https://streak-stats.demolab.com?user=krishnams0ni&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" alt="streak graph">
   
   
