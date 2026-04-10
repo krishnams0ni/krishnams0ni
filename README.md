@@ -1,1 +1,1 @@
-<h2 align="center" target="_blank">Hi 👋, I'm <a href="https://krishnams0ni.github.io/">Krishnam</a>!</h2>
+<h1 align="center" target="_blank">Hi 👋, I'm <a href="https://krishnams0ni.github.io/">Krishnam</a>!</h1>
